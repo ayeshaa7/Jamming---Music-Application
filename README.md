@@ -2,9 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/10026538/65839342-303a1d00-e304-11e9-84ec-43e7d8b2365a.png)
 
-Built for the final project of the [Codecademy Pro Intensive - Build Front-End Web Applications from Scratch](https://bit.ly/2m3tEtc).
-* Code Review - [Overall Score: 16/16]
-
 ## Features
 
 * Spotify Login — the first time a user searches for a song, album, or artist, Spotify will ask them to log in or set up a new account.
