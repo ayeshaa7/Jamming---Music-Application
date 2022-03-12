@@ -12,17 +12,12 @@
 * Change Playlist Title — users can change the title of their custom playlist.
 * Save Playlist to Account — users can save their custom playlist by clicking a button called SAVE TO SPOTIFY.
 
-## Known issues
-
-* Doesn't work with [Privacy Badger](https://www.eff.org/privacybadger) enabled 🦡😢
 
 ## Potential improvements
 
-* ~~Pressing enter triggers a search~~
 * Include preview samples for each track
 * Only display songs not currently present in the playlist in the search results
 * Add a loading screen while playlist is saving
 * Update the access token logic to expire at exactly the right time
-* ~~After user redirect on login, restoring the search term from before the redirect~~
 * Ensure playlist information doesn’t get cleared if a user has to refresh their access token
 
